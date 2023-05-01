@@ -69,4 +69,4 @@ const Aprendiz = require('./controllers/Aprendiz');
 router.post('/aprendiz/guardar',Aprendiz.guardar);
 router.post('/aprendiz/actualizar',Aprendiz.actualizar);
 
-module.exports = router;
+module.exports = router; 
